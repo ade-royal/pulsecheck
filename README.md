@@ -30,7 +30,7 @@ This stack is a starting point, not a requirement to introduce every component i
 
 ## Roadmap
 
-The roadmap below is intentionally high-level. Track concrete tasks and bugs as [GitHub Issues](https://github.com/YOUR-USERNAME/pulsecheck/issues) (replace `YOUR-USERNAME` after creating the repository), and use labels such as `setup`, `backend`, `frontend`, `infrastructure`, and `good first issue`.
+The roadmap below is intentionally high-level. Track concrete tasks and bugs as [GitHub Issues](https://github.com/ade-royal/pulsecheck/issues)
 
 - [ ] **1. Define the MVP**: data model, check behavior, and basic architecture
 - [ ] **2. Build the API and database**: manage endpoints and persist check results
