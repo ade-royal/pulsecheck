@@ -1,0 +1,24 @@
+# Git and documentation
+.git
+.github
+AGENTS.md
+README.md
+LICENSE
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets/
+
+# Python
+__pycache__
+*.py[cod]
+.venv
+.pytest_cache
+.ruff_cache
+
+# JavaScript
+node_modules
+dist
+coverage
